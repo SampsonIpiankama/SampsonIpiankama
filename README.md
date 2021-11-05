@@ -7,7 +7,7 @@
  
 - 🔭 I’m currently working on my **first book**.
  
-- 🌱 I’m currently learning **Web Scraping**
+- 🌱 I’m currently learning **web scraping**
  
 - 👯 I’m looking to collaborate on **open source projects**
  
