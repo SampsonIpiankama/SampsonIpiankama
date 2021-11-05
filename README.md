@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sampson</h1>
 
-<img align="right" alt="GIF" src="https://github.com/SampsonIpiankama/SampsonIpiankama/blob/main/python-for-web-development.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/SampsonIpiankama/SampsonIpiankama/blob/main/python-for-web-development.gif" width="400" height="300" />
 
 ## I'm a Data Analyst
 - ✍ You can find my projects here **[My Portfolio](https://github.com/SampsonIpiankama/DataAnalystPortfolio/)**
@@ -20,8 +20,8 @@
 -----
 
 ### Talk with me, I am kinda cool:
-[<img align="left" alt="SampsonIpiankama | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="SampsonIpiankama | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+<a href = "https://linkedin.com/in/sampsonipiankama"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/ipiankama"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <br />
 
 -----
@@ -35,7 +35,9 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>     
 </p>
 
-<br />
-
-[linkedin]: https://linkedin.com/in/sampsonipiankama
-[Twitter]: https://twitter.com/ipiankama
+-----
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=SampsonIpiankama">
+</a>
+<a href="https://github.com/SampsonIpiankama?tab=followers"><img src="https://img.shields.io/github/followers/SampsonIpiankama?label=Followers&style=social" alt="GitHub Badge"></a>
