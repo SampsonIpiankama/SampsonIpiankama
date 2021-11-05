@@ -5,7 +5,7 @@
 ## I'm a Data Analyst
 - ✍ You can find my projects here **[My Portfolio](https://github.com/SampsonIpiankama/DataAnalystPortfolio/)**
  
-- 🔭 I’m currently working on my data analytic skills.
+- 🔭 I’m currently working on my **first book**.
  
 - 🌱 I’m currently learning **Web Scraping**
  
