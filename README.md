@@ -3,11 +3,11 @@
 <img align="right" alt="GIF" src="https://github.com/SampsonIpiankama/SampsonIpiankama/blob/main/python-for-web-development.gif" width="400" height="300" />
 
 ## I'm a Data Analyst
-- ✍ You can find my projects here **[My Portfolio](https://github.com/SampsonIpiankama/DataAnalystPortfolio/)**
+- ✍ You can find my projects **[here](https://github.com/SampsonIpiankama?tab=repositories)**
  
 - 🔭 I’m currently working on my **first book**.
  
-- 🌱 I’m currently learning **web scraping**
+- 🌱 I’m currently learning **Machine Learning**
  
 - 👯 I’m looking to collaborate on **open source projects**
  
