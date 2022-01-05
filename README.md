@@ -9,7 +9,7 @@
  
 - 🌱 I’m currently learning **Machine Learning**
  
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m looking to collaborate on **data analysis and machine learning projects**
  
 - 🥅 My Goal: **[#92 Days of Data Analytics](https://www.linkedin.com/feed/update/urn:li:activity:6860619507728293888/)**
  
